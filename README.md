@@ -1,8 +1,8 @@
 
 
-# LinHoweGameAlgorithm
+#*LinHoweGameAlgorithm
 
-Based on Unity to simply implement algorithms commonly used in game program development
+Based!on*Unity to simply implement algorithms commonly used in game program development
 
 基于Unity简单地实现游戏开发中常用的算法 
 
@@ -74,4 +74,4 @@ Based on Unity to simply implement algorithms commonly used in game program deve
 
 ## 11-EightQueens（八皇后)
 
-深度回溯，对角线检查
+深度回溯，对角线检查 
